@@ -1,4 +1,4 @@
-# AIM3
+# EDM
 建立“企业管理数字化模型标准”，实现AI为企业定制个性化管理系统。Establish a "Digital Model Standard for Enterprise Management" to enable AI to customize personalized management systems for enterprises.
   建立“企业管理数字化模型标准”（Enterprise Digital Model，简称EDM），即将企业管理中涉及的各项数据内容及其逻辑关系，以标准化格式进行定义和封装，形成统一的模型文件。企业用户可通过“企业管理模型运行工具”导入EDM标准文件，在本地局域网或云端服务器上快速构建数据库并运行实际管理数据。
   这种将管理模式搭建与实际数据运行分离的设计，不仅能够加速管理模型的构建、扩展与优化，还便于模型的传播、推广与共享。尤其在AI时代，借助AI大模型技术，企业只需提出管理需求，即可自动生成符合其业务特点的EDM文件，快速获得量身定制的个性化管理系统。
